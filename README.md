@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @SnigdhaSGemini 👩‍💻
-- 🏢 This is my Professional Account dedicated for my organisation 😌
-- 👀 I’m interested in Web Development 🌐
-- 🌱 I’m currently learning MERN Stack 🤩
-- 💞️ I’m looking to collaborate on the same 😊
-- 📫 You can reach me at - Snigdha.Singh@geminisolutions.com 📧
+<h1 align="center">👋 Hi, I’m @SnigdhaSGemini 👩‍💻</h1>
+<h3 align="center"> 🏢 This is my Professional Account dedicated for my organisation  ✨ </h3>
+<h6 align="center">👀 I’m interested in Web Development 🌐 </h6>
+<h6 align="center">🌱 I’m currently learning MERN Stack 🤩 </h6>
+<h6 align="center">💞️ I’m looking to collaborate on the same 😊 </h6>
+<h6 align="center">  📫 You can reach me at - Snigdha.Singh@geminisolutions.com 📧</h6>
+
 
 <!---
 SnigdhaSGemini/SnigdhaSGemini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
